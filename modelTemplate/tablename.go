@@ -1,4 +1,4 @@
-// %s/__PROJECT_NAME__/ProjectName/g | %s/__TABLE_NAME__/TableName/g | %s/__TABLE_NAME_CAMEL__/TableNameCamel/g | %s/__TABLE_COMMENT__/TableComment/g | 1d
+// %s/__PROJECT_NAME__/ProjectName/g | %s/__TABLE_NAME__/TableName/g | %s/__TABLE_NAME_CAMEL__/TableNameCamel/g | %s/__TABLE_COMMENT__/TableComment/g | 1d | nohl
 package __TABLE_NAME__
 
 import (
